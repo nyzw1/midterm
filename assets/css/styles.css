@@ -1,2 +1,37 @@
-/* styles.css */
+
+body {
+    font-family: 'Source Code Pro', serif;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+h1 {
+    
+  font-family: 'Merriweather', serif;
+  font-size: 3rem;
+  color: #000000;
+  text-align: center;
+}
+
+h2 {
+    
+  font-family: 'eb garamond', serif;
+  font-size: 2rem;
+  text-transform: uppercase;
+  border-bottom: 2px solid #000000;
+  margin-top: 2rem;
+  color: #333;
+}
+
+p {
+  font-family: 'Source Code Pro', serif;
+  kerning: -1px;
+  color: #000000;
+}
+
+li {
+  font-family: 'Source Code Pro', serif;
+  kerning: -1px;
+  color: #000000;
+}
 
