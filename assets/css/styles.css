@@ -10,6 +10,8 @@ h1 {
   font-family: 'Merriweather', serif;
   font-size: 3rem;
   color: #000000;
+  margin-top: 2rem;
+  margin-bottom: 0;
   text-align: center;
 }
 
@@ -20,10 +22,22 @@ h2 {
   text-transform: uppercase;
   border-bottom: 2px solid #000000;
   margin-top: 2rem;
+  padding-left: 1rem;
   color: #333;
 }
-
+h3 {
+    text-align: center;
+  font-family: 'eb garamond', serif;
+  font-size: 1.25rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-bottom: 2px solid #000000;
+  margin-top: 2rem;
+  padding-bottom: 2rem;
+  color: #333;
+}
 p {
+    padding-left: 2rem;
   font-family: 'Source Code Pro', serif;
   kerning: -1px;
   color: #000000;
@@ -32,6 +46,7 @@ p {
 li {
   font-family: 'Source Code Pro', serif;
   kerning: -1px;
+  padding-left: 1rem;
   color: #000000;
 }
 
